@@ -9,5 +9,6 @@ My goal is to use as many different languages as I can.
 - C++		✔
 - C
 - Assembly
-- Haskell   ✔
+- Haskell
 - Python
+- Prolog    ✔
