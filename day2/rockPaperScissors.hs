@@ -1,6 +1,4 @@
 {-# OPTIONS_GHC -Wno-incomplete-patterns #-}
-import Control.Monad
-import qualified Data.ByteString as BS
 import System.Environment
 import Text.XHtml (content)
 
