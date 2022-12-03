@@ -15,7 +15,8 @@ sumb=0
 group=1
 while read line || [ -n "$line" ]; do
 
-    # Part 1    
+    # Part 1
+    
     s=${line:0:${#line}/2}
     t=${line:${#line}/2}
 
