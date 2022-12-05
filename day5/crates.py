@@ -10,7 +10,7 @@ crates9001 = []
 first = True
 crates9000Read = False
 movesStart = False
-# Strips the newline character
+
 for line in lines:
     if not crates9000Read:
         if '1' in line:
