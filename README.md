@@ -11,6 +11,6 @@ My goal is to use as many different languages as I can.
 - Assembly
 - Bash      ✔
 - Haskell
-- Python
+- Python    ✔
 - Prolog    ✔
 - Erlang    ✔
