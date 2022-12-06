@@ -14,3 +14,4 @@ My goal is to use as many different languages as I can.
 - Python    ✔
 - Prolog    ✔
 - Erlang    ✔
+- SML       ✔
